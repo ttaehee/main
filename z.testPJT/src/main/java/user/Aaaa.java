@@ -1,6 +1,10 @@
 package user;
 
-public class Aaaa
-{
+public class Aaaa{
 
+	
+private void Syso() {
+	// TODO Auto-generated method stub
+
+}
 }

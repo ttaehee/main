@@ -6,6 +6,8 @@ public class T {
 		// TODO Auto-generated constructor stub
 		System.out.println();
 		AA a = new AA();
+		int A;
+		A = 1;
 	}
 
 }
